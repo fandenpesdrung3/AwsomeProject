@@ -24,7 +24,7 @@
      
      <SafeAreaView >
        <ScrollView>
-      <Text style = {{fontSize:35}} >MosterJEW</Text>
+      <Text style = {{fontSize:35}} >Mostersadsadd</Text>
       <Input placeholder='Hint'/>
      <TextInput
      style= {{backgroundColor:'#DDDDDD'}}
